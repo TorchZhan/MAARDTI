@@ -1,1 +1,4 @@
-# MAAR: A multi-perspective attention aggregating model for predicting drug-target interaction!
+# MAAR: A multi-perspective attention aggregating model for predicting drug-target interaction
+source code for MAAR
+
+## Requirments
