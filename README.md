@@ -1,4 +1,3 @@
-This repository contains the source code and the data.
 <h1 align="center">
 MAAR: A multi-perspective attention aggregating model for predicting drug-target interaction
 </h1>
