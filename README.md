@@ -8,7 +8,13 @@ MAAR: A multi-perspective attention aggregating model for predicting drug-target
 ## Requirments
 * pytorch >=1.2
 * numpy
-* python 3.6
 * sklearn
 * tqdm
 
+## Environment
+Try the following command for installation. 
+```sh
+# Install Python Environment
+conda env create -f environment.yml
+conda activate MAARDTI
+```
