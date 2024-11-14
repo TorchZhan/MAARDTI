@@ -18,3 +18,7 @@ Try the following command for installation.
 conda env create -f environment.yml
 conda activate MAARDTI
 ```
+## Download datasets
+Datasets (DrugBank, Davis, KIBA) are provided by project [MCANet](https://github.com/MrZQAQ/MCANet/tree/main)
+Cold Drug/Target/Binding are provided by project [DLM-DTI](https://github.com/jonghyunlee1993/DLM-DTI_hint-based-learning/tree/master). 
+
