@@ -9,7 +9,6 @@ MAAR: A multi-perspective attention aggregating model for predicting drug-target
 * numpy
 * sklearn
 * tqdm
-* 
 
 ## Environment
 Try the following command for installation. 
@@ -20,7 +19,7 @@ conda activate MAARDTI
 ```
 
 ## Installation
-- You can install the required libraries by running `pip install -r requirements.txt`
+- You can install the required libraries `environment.yml`
 - If you encounter any installation errors, please don't hesitate to reach out to us for assistance.
 
 ## Download datasets
