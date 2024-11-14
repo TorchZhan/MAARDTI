@@ -1,0 +1,11 @@
+gpu: 0
+
+data: BindingDB_target
+# loss: 'CrossEntroy' 
+loss: 'PolyLoss'
+save : 'result/'
+outpath : 'test2'
+c_p : 256
+c_d : 16
+epoch : 1
+batch_size : 32
