@@ -22,3 +22,9 @@ conda activate MAARDTI
 Datasets (DrugBank, Davis, KIBA) are provided by project [MCANet](https://github.com/MrZQAQ/MCANet/tree/main).
 Cold Drug/Target/Binding are provided by project [DLM-DTI](https://github.com/jonghyunlee1993/DLM-DTI_hint-based-learning/tree/master). 
 
+## Training and Testing
+We provided scripts for easily training by MAARDTI.
+```python default
+python train.py ds=Davis outpath='sample' epoch=300 c_p=16 c_d=8'
+```
+
