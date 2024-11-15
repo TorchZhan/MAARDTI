@@ -1,6 +1,6 @@
 gpu: 0
 
-data: BindingDB_target
+data: Davis
 # loss: 'CrossEntroy' 
 loss: 'PolyLoss'
 save : 'result/'
