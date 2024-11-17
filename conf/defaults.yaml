@@ -1,0 +1,3 @@
+defaults:
+  - basic: config
+  - ds: Sample
