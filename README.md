@@ -2,7 +2,8 @@
 MAAR: A multi-perspective attention aggregating model for predicting drug-target interaction
 </h1>
 
-![workflow](https://github.com/user-attachments/assets/15ae4eaf-9774-48c6-a6e9-f4c57da1b52e)
+![workflow](https://github.com/user-attachments/assets/2b4de85e-eb20-4d2f-8302-6f918443f26a)
+
 
 ## Requirments
 * pytorch >=1.2
