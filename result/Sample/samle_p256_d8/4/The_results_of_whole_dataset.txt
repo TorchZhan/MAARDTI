@@ -1,0 +1,5 @@
+Test the stable model
+The Parameter is 3.48563 MB
+Train: Loss:0.87335;Accuracy:0.77917;Precision:0.00000;Recall:0.00000;AUC:0.75895;PRC:0.51126.
+Valid: Loss:0.84364;Accuracy:0.79167;Precision:0.00000;Recall:0.00000;AUC:0.77895;PRC:0.55603.
+Test: Loss:0.86346;Accuracy:0.78906;Precision:0.00000;Recall:0.00000;AUC:0.67217;PRC:0.36698.
