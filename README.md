@@ -36,6 +36,6 @@ python start.py data=Sample c_p=256 c_d=8 outpath='samle_p256_d8'
 ## Training and Testing
 We provided scripts for easily training by MAARDTI.
 ```python default
-python train.py ds=Davis outpath='sample' epoch=300 c_p=16 c_d=8'
+python start.py ds=Davis outpath='sample' epoch=300 c_p=16 c_d=8'
 ```
 
