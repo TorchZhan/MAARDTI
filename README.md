@@ -39,3 +39,6 @@ We provided scripts for easily training by MAARDTI.
 python start.py ds=Davis outpath='sample' epoch=300 c_p=16 c_d=8'
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TorchZhan/MAARDTI&type=date&legend=top-left)](https://www.star-history.com/#TorchZhan/MAARDTI&type=date&legend=top-left)
